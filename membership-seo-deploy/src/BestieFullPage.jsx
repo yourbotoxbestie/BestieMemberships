@@ -186,7 +186,7 @@ export default function BestieFullPage() {
           <p style={{ fontSize: 13, color: "#8a7a80", margin: "0 0 24px 0" }}>3467 Merrick Road, Suite 206, Wantagh, NY 11793</p>
           <div style={{ display: "flex", gap: 10, justifyContent: "center", flexWrap: "wrap" }}>
             <a href="https://bestiebeautybar.myaestheticrecord.com/online-booking" target="_blank" rel="noopener noreferrer" style={{ background: "linear-gradient(135deg, #D4548A, #c44a7e)", color: "#fff", borderRadius: 50, padding: "14px 32px", fontSize: 15, fontWeight: 700, textDecoration: "none", letterSpacing: 0.5, boxShadow: "0 6px 20px rgba(212,84,138,0.3)" }}>Book Appointment</a>
-            <a href="https://bestieskinanalysis.netlify.app" target="_blank" rel="noopener noreferrer" style={{ background: "#fff", color: "#D4548A", border: "2px solid #D4548A", borderRadius: 50, padding: "12px 28px", fontSize: 15, fontWeight: 700, textDecoration: "none", letterSpacing: 0.5 }}>Free Skin Analysis</a>
+            <a href="https://bestieskinquiz.netlify.app/." target="_blank" rel="noopener noreferrer" style={{ background: "#fff", color: "#D4548A", border: "2px solid #D4548A", borderRadius: 50, padding: "12px 28px", fontSize: 15, fontWeight: 700, textDecoration: "none", letterSpacing: 0.5 }}>Free Skin Analysis</a>
           </div>
         </div>
       </div>
@@ -266,7 +266,7 @@ export default function BestieFullPage() {
           <p style={{ fontSize: 14, color: "rgba(255,255,255,0.85)", lineHeight: 1.7, marginBottom: 24 }}>Book your appointment or join a membership today.</p>
           <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
             <a href="https://bestiebeautybar.myaestheticrecord.com/online-booking" target="_blank" rel="noopener noreferrer" style={{ display: "block", background: "#fff", color: "#D4548A", borderRadius: 50, padding: "16px 32px", fontSize: 16, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(0,0,0,0.1)" }}>Book Now</a>
-            <a href="https://bestieskinanalysis.netlify.app" target="_blank" rel="noopener noreferrer" style={{ display: "block", color: "rgba(255,255,255,0.9)", fontSize: 14, textDecoration: "underline" }}>Take the free Skin Analysis Quiz first</a>
+            <a href="https://bestieskinquiz.netlify.app/." target="_blank" rel="noopener noreferrer" style={{ display: "block", color: "rgba(255,255,255,0.9)", fontSize: 14, textDecoration: "underline" }}>Take the free Skin Analysis Quiz first</a>
           </div>
         </div>
 
@@ -280,7 +280,7 @@ export default function BestieFullPage() {
       <div style={{ position: "fixed", bottom: 0, left: 0, right: 0, padding: "10px 20px", background: "rgba(255,251,253,0.97)", backdropFilter: "blur(10px)", borderTop: "1px solid #f0e4ea", zIndex: 100, transform: showSticky ? "translateY(0)" : "translateY(100%)", transition: "transform 0.3s ease" }}>
         <div style={{ maxWidth: 540, margin: "0 auto", display: "flex", gap: 8 }}>
           <a href="https://bestiebeautybar.myaestheticrecord.com/online-booking" target="_blank" rel="noopener noreferrer" style={{ flex: 1, display: "block", background: "linear-gradient(135deg, #D4548A, #c44a7e)", color: "#fff", borderRadius: 50, padding: "13px 16px", fontSize: 14, fontWeight: 700, textAlign: "center", textDecoration: "none" }}>Book Now</a>
-          <a href="https://bestieskinanalysis.netlify.app" target="_blank" rel="noopener noreferrer" style={{ display: "flex", alignItems: "center", justifyContent: "center", background: "#fff", color: "#D4548A", border: "2px solid #D4548A", borderRadius: 50, padding: "13px 20px", fontSize: 14, fontWeight: 700, textDecoration: "none", whiteSpace: "nowrap" }}>Skin Quiz</a>
+          <a href="https://bestieskinquiz.netlify.app/." target="_blank" rel="noopener noreferrer" style={{ display: "flex", alignItems: "center", justifyContent: "center", background: "#fff", color: "#D4548A", border: "2px solid #D4548A", borderRadius: 50, padding: "13px 20px", fontSize: 14, fontWeight: 700, textDecoration: "none", whiteSpace: "nowrap" }}>Skin Quiz</a>
         </div>
       </div>
     </div>
