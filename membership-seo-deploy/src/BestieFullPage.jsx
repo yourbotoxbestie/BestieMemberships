@@ -217,7 +217,7 @@ export default function BestieFullPage() {
         <div style={{ background: "linear-gradient(135deg, #fdf0f5, #f8e8ef)", borderRadius: 20, padding: "28px 24px", marginTop: 40, textAlign: "center", border: "1px solid #f0e4ea" }}>
           <div style={{ fontSize: 20, fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 600, color: "#2d2d2d", marginBottom: 8 }}>Not sure where to start?</div>
           <p style={{ fontSize: 14, color: "#6a5a60", lineHeight: 1.6, marginBottom: 16 }}>Take our free 3-minute Skin Analysis Quiz. Get a personalized Skin Health Score and custom treatment recommendations.</p>
-          <a href="https://bestieskinanalysis.netlify.app" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", background: "linear-gradient(135deg, #D4548A, #c44a7e)", color: "#fff", borderRadius: 50, padding: "14px 32px", fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(212,84,138,0.25)" }}>Take the Free Skin Quiz</a>
+          <a href="https://bestieskinquiz.netlify.app" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", background: "linear-gradient(135deg, #D4548A, #c44a7e)", color: "#fff", borderRadius: 50, padding: "14px 32px", fontSize: 15, fontWeight: 700, textDecoration: "none", boxShadow: "0 4px 16px rgba(212,84,138,0.25)" }}>Take the Free Skin Quiz</a>
         </div>
 
         <div id="memberships">
